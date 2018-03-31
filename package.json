@@ -1,0 +1,33 @@
+{
+  "name": "shop-homepage",
+  "version": "1.0.0",
+  "description": "Shop Homepage is a starter template for a Bootstrap based online store or ecommerce website.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jakepintu.github.io/Shop-Homepage/"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "responsive",
+    "gulp",
+    "template",
+    "theme"
+  ],
+  "author": "Mahendra Choudhary",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
